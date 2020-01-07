@@ -33,3 +33,13 @@ vue create Project_name
 ## Installer les dépendances
 
 après que le projet ai était initialisé, on peut ce placer dedans et faire : `npm install` pour installer toutes les dépendances
+
+## Extensions VS code 
+
+Pour les extensions vs code avec vue.js il y a :
+
+*   Vue 2 Snippets
+
+*   Vue VSCode Snippets
+
+*   Vetur

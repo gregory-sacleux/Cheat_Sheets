@@ -43,3 +43,4 @@ Pour les extensions vs code avec vue.js il y a :
 *   Vue VSCode Snippets
 
 *   Vetur
+

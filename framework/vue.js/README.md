@@ -18,3 +18,11 @@ Pour voir la version de vue.js il faut faire :
 ```
 vue --version
 ```
+
+## initialiser un projet avec vue
+
+Pour initialiser un projet va falloir faire la commande suivante  : 
+```
+vue create Project_name
+```
+

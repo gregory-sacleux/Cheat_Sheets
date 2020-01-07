@@ -30,3 +30,6 @@ Pour initialiser un projet va falloir faire la commande suivante  :
 vue create Project_name
 ```
 
+## Installer les dépendances
+
+après que le projet ai était initialisé, on peut ce placer dedans et faire : `npm install` pour installer toutes les dépendances
